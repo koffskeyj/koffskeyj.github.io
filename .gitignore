@@ -1,0 +1,7 @@
+__pycache__
+.direnv
+.envrc
+venv
+.env
+.idea/
+*.pyc
