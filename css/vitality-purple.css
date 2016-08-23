@@ -1167,3 +1167,7 @@ body.vintage .testimonials .testimonials-carousel .owl-controls .owl-prev,
 body.vintage .testimonials .testimonials-carousel .owl-controls .owl-next {
   line-height: 55px;
 }
+.python img{
+  height: 25px;
+  width: 25px;
+}
