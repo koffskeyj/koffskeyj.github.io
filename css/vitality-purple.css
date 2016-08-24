@@ -1178,7 +1178,7 @@ body.vintage .testimonials .testimonials-carousel .owl-controls .owl-next {
 .port-image img{
   box-sizing: border-box;
   max-width: 100%;
-  position: relative
+  position: relative;
   border: 1px solid black;
   box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.42);
 }
