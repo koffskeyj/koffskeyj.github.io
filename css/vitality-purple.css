@@ -1182,4 +1182,5 @@ body.vintage .testimonials .testimonials-carousel .owl-controls .owl-next {
 }
 img {
   border: 1px solid black;
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.42);
 }
