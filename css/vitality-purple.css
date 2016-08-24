@@ -1178,4 +1178,6 @@ body.vintage .testimonials .testimonials-carousel .owl-controls .owl-next {
 .port-image img{
   height: 167px;
   width: 223px;
+  max-width: 100%;
+  position: relative
 }
