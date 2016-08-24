@@ -1179,8 +1179,10 @@ body.vintage .testimonials .testimonials-carousel .owl-controls .owl-next {
   box-sizing: border-box;
   max-width: 100%;
   position: relative
+  border: 1px solid black;
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.42);
 }
-img {
+.about-pic img{
   border: 1px solid black;
   box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.42);
 }
