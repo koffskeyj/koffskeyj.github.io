@@ -1173,10 +1173,13 @@ body.vintage .testimonials .testimonials-carousel .owl-controls .owl-next {
 }
 .django img{
   height: 65px;
-  width: 90px;
+  width: 100px;
 }
 .port-image img{
   box-sizing: border-box;
   max-width: 100%;
   position: relative
+}
+img {
+  border: 1px solid black;
 }
