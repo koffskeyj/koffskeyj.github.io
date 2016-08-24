@@ -1171,3 +1171,7 @@ body.vintage .testimonials .testimonials-carousel .owl-controls .owl-next {
   height: 65px;
   width: 65px;
 }
+.django img{
+  height: 65px;
+  width: 80px;
+}
