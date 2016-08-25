@@ -1187,6 +1187,7 @@ body.vintage .testimonials .testimonials-carousel .owl-controls .owl-next {
   box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.42);
 }
 .box {
+  margin: auto;
   padding: 10px;
   background: black;
   width: 700px;
