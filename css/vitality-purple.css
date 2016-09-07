@@ -1192,3 +1192,7 @@ margin: auto;
 background: black;
 opacity: 0.8;
 }
+.small-logo{
+  height: 65px;
+  width: 65px;
+}
